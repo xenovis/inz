@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#512DA8</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="semitransparentBlack">#80000000</color>
+    <color name="semitransparentWhite">#c0ffffff</color>
+    <color name="bottomNavigationInactiveColor">#80ffffff</color>
+    <color name="primaryTextColor">#212121</color>
+    <color name="secondaryTextColor">#757575</color>
+    <color name="dividerColor">#20000000</color>
+</resources>

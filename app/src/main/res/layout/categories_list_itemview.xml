@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:padding="@dimen/standard_dimen_x2">
+
+    <TextView
+        android:id="@+id/category_textview"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        style="@style/PrimaryTextStyle"
+        tools:text="Straticzne"/>
+
+    <TextView
+        android:id="@+id/count_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/SecondaryTextStyle"
+        tools:text="2 games"/>
+</LinearLayout>
